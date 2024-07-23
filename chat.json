@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What will be the primary purpose of the form in the app? Is it for user registration or for updating user profile information?\", \"option1\": \"User registration\", \"option2\": \"Updating user profile\"}, {\"question 2\": \"Do you have specific labels in mind for the text fields and the gender radio buttons?\", \"option1\": \"Yes, I will provide specific labels.\", \"option2\": \"No, use standard labels like 'Name', 'Email', and gender options 'Male', 'Female'.\"}], \"input_token_count\": 265, \"output_token_count\": 119, \"time_taken\": \"0:00:03.521309\"}",
+        "message_id": "guest23072024134303",
+        "timestamp": "23072024134308",
+        "component_file_name": "blank_component_1721742158",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "\"I can create your form with two text fields, two radio buttons for gender, and a button. Working on it now.\"",
         "message_id": "guest23072024134303",
