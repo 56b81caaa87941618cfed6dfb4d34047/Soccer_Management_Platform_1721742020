@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Add a new button with Good Morning",
+        "message_id": "guest23072024143131",
+        "timestamp": "23072024143133",
+        "component_file_name": "simple_hero_component_1721742026",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm working on building a new frontend for crypto swap.",
         "message_id": "guest23072024140645",
