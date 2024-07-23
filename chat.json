@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Great, I will add a header with \"Welcome to Login Form\".",
+        "message_id": "guest23072024134347",
+        "timestamp": "23072024134348",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a header title with Welcome to Login Form",
         "message_id": "guest23072024134347",
