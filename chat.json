@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you specify the shade of blue you have in mind for the 'Get the App' background?\", \"option1\": \"Light blue\", \"option2\": \"Dark blue\"}, {\"question 2\": \"Would you like the text font and size to remain the same after changing its color to white?\", \"option1\": \"Yes, keep the font and size the same\", \"option2\": \"No, suggest font and size changes\"}], \"input_token_count\": 336, \"output_token_count\": 103, \"time_taken\": \"0:00:03.343506\"}",
+        "message_id": "guest23072024134153",
+        "timestamp": "23072024134157",
+        "component_file_name": "simple_hero_component_1721742026",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, changing the background color to blue and text to white.",
         "message_id": "guest23072024134153",
