@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm working on building a new frontend for crypto swap.",
+        "message_id": "guest23072024140645",
+        "timestamp": "23072024140647",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "build me a new frontend for crypto swap",
         "message_id": "guest23072024140645",
