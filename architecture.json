@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: Change a header text to Soccer Champion of World\nAI: \"Yes, I will change the header text to 'Soccer Champion of World'.\"\nUser: Change the background color of Get the App to Blue and text white\nThis is the user's current request of changes to be made: Change the background color of Get the App to Blue and text white"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: Change a header text to Soccer Champion of World\nAI: \"Yes, I will change the header text to 'Soccer Champion of World'.\"\nUser: Change the background color of Get the App to Blue and text white\nThis is the user's current request of changes to be made: Change the background color of Get the App to Blue and text white"
     }
 ]
