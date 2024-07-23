@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the header title 'Welcome to Login Form' to be prominent on the screen as a part of the app's branding or more subtle as a navigation cue?\", \"option1\": \"Prominent as part of branding\", \"option2\": \"Subtle as a navigation cue\"}, {\"question 2\": \"Do you have a specific font style or size in mind for the 'Welcome to Login Form' title?\", \"option1\": \"Yes, I have specific font style and size preferences\", \"option2\": \"No, I would like recommendations based on best practices\"}], \"input_token_count\": 259, \"output_token_count\": 131, \"time_taken\": \"0:00:04.781317\"}",
+        "message_id": "guest23072024134347",
+        "timestamp": "23072024134353",
+        "component_file_name": "blank_component_1721742158",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, I will add a header with \"Welcome to Login Form\".",
         "message_id": "guest23072024134347",
