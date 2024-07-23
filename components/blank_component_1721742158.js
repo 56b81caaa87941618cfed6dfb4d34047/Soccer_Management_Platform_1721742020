@@ -21,21 +21,21 @@ Vue.component("blank_component_1721742158", {
                     <div class="flex-1">
                         <form class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
                             <div class="mb-4">
-                                <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" type="text" placeholder="Enter text">
+                                <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline focus:border-purple-500" type="text" placeholder="Enter text">
                             </div>
                             <div class="mb-4">
-                                <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" type="text" placeholder="Enter text">
+                                <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline focus:border-purple-500" type="text" placeholder="Enter text">
                             </div>
                             <div class="mb-4">
                                 <div class="flex items-center">
-                                    <input type="radio" id="male" name="gender" value="male" class="mr-2">
-                                    <label for="male" class="mr-4">Male</label>
-                                    <input type="radio" id="female" name="gender" value="female" class="mr-2">
-                                    <label for="female">Female</label>
+                                    <input type="radio" id="male" name="gender" value="male" class="mr-2 focus:ring-purple-500 text-purple-600">
+                                    <label for="male" class="mr-4 text-gray-700">Male</label>
+                                    <input type="radio" id="female" name="gender" value="female" class="mr-2 focus:ring-purple-500 text-purple-600">
+                                    <label for="female" class="text-gray-700">Female</label>
                                 </div>
                             </div>
                             <div class="flex items-center justify-between">
-                                <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="button">
+                                <button class="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="button">
                                     Submit
                                 </button>
                             </div>
