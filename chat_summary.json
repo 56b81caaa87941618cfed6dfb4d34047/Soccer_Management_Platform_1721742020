@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Live Scores' section with real-time updates\", \"checked\": true}, {\"feature\": \"Implement a 'Match Highlights' area with video summaries\", \"checked\": false}, {\"feature\": \"Include a 'News Feed' with the latest soccer news\", \"checked\": true}, {\"feature\": \"Create a 'Player Profiles' section with statistics and information\", \"checked\": false}, {\"feature\": \"Integrate a 'Fan Zone' for user interactions and discussions\", \"checked\": true}], \"input_token_count\": 290, \"output_token_count\": 116, \"time_taken\": \"0:00:03.565906\"}",
         "timestamp": "23072024134157",
         "message_id": "guest23072024134153"
+    },
+    {
+        "role": "user",
+        "content": "create a form with two text field and two radio button for gender with Button",
+        "timestamp": "23072024134304",
+        "message_id": "guest23072024134303"
     }
 ]
