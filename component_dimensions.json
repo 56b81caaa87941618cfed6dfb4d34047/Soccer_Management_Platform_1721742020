@@ -74,23 +74,5 @@
         "isDraggable": true,
         "isResizable": true,
         "name": ""
-    },
-    "basic_login_form_1721742133.js": {
-        "id": "basic_login_form_1721742133",
-        "name": "basic_login_form",
-        "type": "containerComponent",
-        "metadata": {},
-        "w": 7,
-        "h": 11,
-        "x": 2,
-        "y": 27,
-        "i": "4",
-        "minW": 3,
-        "maxW": 12,
-        "minH": 1,
-        "moved": false,
-        "static": false,
-        "isDraggable": true,
-        "isResizable": true
     }
 }
