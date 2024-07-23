@@ -19,29 +19,29 @@ Vue.component("blank_component_1721742158", {
             <section id="blank-section" class="bg-white dark:bg-gray-900 flex-1">
                 <div id="blank-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
                     <div class="flex-1">
-<h1 class="text-3xl font-bold text-center mb-6 text-purple-600">Welcome to Login Form</h1>
-
-                        <form class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
-                            <div class="mb-4">
-                                <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline focus:border-purple-500" type="text" placeholder="Enter text">
+                        <h2 class="text-4xl font-extrabold text-center mb-12 text-purple-600">Frequently Asked Questions</h2>
+                        <div class="space-y-8">
+                            <div class="bg-gradient-to-r from-purple-100 to-pink-100 rounded-lg p-6 shadow-md">
+                                <h3 class="text-2xl font-bold text-purple-800 mb-3">What is this platform about?</h3>
+                                <p class="text-gray-700">Our platform is designed to revolutionize soccer management, providing comprehensive tools for teams, coaches, and players.</p>
                             </div>
-                            <div class="mb-4">
-                                <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline focus:border-purple-500" type="text" placeholder="Enter text">
+                            <div class="bg-gradient-to-r from-blue-100 to-green-100 rounded-lg p-6 shadow-md">
+                                <h3 class="text-2xl font-bold text-blue-800 mb-3">How do I create a team?</h3>
+                                <p class="text-gray-700">Creating a team is easy! Simply navigate to the 'Teams' section and click on 'Create New Team'. Follow the prompts to set up your team profile.</p>
                             </div>
-                            <div class="mb-4">
-                                <div class="flex items-center">
-                                    <input type="radio" id="male" name="gender" value="male" class="mr-2 focus:ring-purple-500 text-purple-600">
-                                    <label for="male" class="mr-4 text-gray-700">Male</label>
-                                    <input type="radio" id="female" name="gender" value="female" class="mr-2 focus:ring-purple-500 text-purple-600">
-                                    <label for="female" class="text-gray-700">Female</label>
-                                </div>
+                            <div class="bg-gradient-to-r from-yellow-100 to-orange-100 rounded-lg p-6 shadow-md">
+                                <h3 class="text-2xl font-bold text-yellow-800 mb-3">Can I track player statistics?</h3>
+                                <p class="text-gray-700">Absolutely! Our platform offers comprehensive player statistics tracking, including goals, assists, playing time, and more.</p>
                             </div>
-                            <div class="flex items-center justify-between">
-                                <button class="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="button">
-                                    Submit
-                                </button>
+                            <div class="bg-gradient-to-r from-red-100 to-pink-100 rounded-lg p-6 shadow-md">
+                                <h3 class="text-2xl font-bold text-red-800 mb-3">Is there a mobile app available?</h3>
+                                <p class="text-gray-700">Yes, we have a mobile app available for both iOS and Android devices. You can download it from the respective app stores.</p>
                             </div>
-                        </form>
+                            <div class="bg-gradient-to-r from-indigo-100 to-purple-100 rounded-lg p-6 shadow-md">
+                                <h3 class="text-2xl font-bold text-indigo-800 mb-3">How secure is my data?</h3>
+                                <p class="text-gray-700">We take data security very seriously. All your information is encrypted and stored securely on our servers, adhering to the highest industry standards.</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>  
