@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, changing the background color to blue and text to white.",
+        "message_id": "guest23072024134153",
+        "timestamp": "23072024134154",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change the background color of Get the App to Blue and text white",
         "message_id": "guest23072024134153",
