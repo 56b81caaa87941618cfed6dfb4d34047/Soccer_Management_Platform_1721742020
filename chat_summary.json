@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Live match score updates section with push notifications\", \"checked\": true}, {\"feature\": \"Interactive team and player stats dashboard\", \"checked\": false}, {\"feature\": \"Customizable user profiles with favorite teams and players selection\", \"checked\": true}, {\"feature\": \"Real-time chat rooms for match discussions\", \"checked\": false}, {\"feature\": \"Fixture and match schedule calendar integration\", \"checked\": true}, {\"feature\": \"News and articles section for latest soccer updates\", \"checked\": false}], \"input_token_count\": 219, \"output_token_count\": 118, \"time_taken\": \"0:00:03.553501\"}",
+        "message_id": "guest23072024134303",
+        "timestamp": "23072024134308",
+        "component_file_name": "blank_component_1721742158",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What will be the primary purpose of the form in the app? Is it for user registration or for updating user profile information?\", \"option1\": \"User registration\", \"option2\": \"Updating user profile\"}, {\"question 2\": \"Do you have specific labels in mind for the text fields and the gender radio buttons?\", \"option1\": \"Yes, I will provide specific labels.\", \"option2\": \"No, use standard labels like 'Name', 'Email', and gender options 'Male', 'Female'.\"}], \"input_token_count\": 265, \"output_token_count\": 119, \"time_taken\": \"0:00:03.521309\"}",
+        "message_id": "guest23072024134303",
+        "timestamp": "23072024134308",
+        "component_file_name": "blank_component_1721742158",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "\"I can create your form with two text fields, two radio buttons for gender, and a button. Working on it now.\"",
         "message_id": "guest23072024134303",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "\"Yes, I will change the header text to 'Soccer Champion of World'.\"",
-        "message_id": "guest23072024134121",
-        "timestamp": "23072024134122",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Change a header text to Soccer Champion of World",
-        "message_id": "guest23072024134121",
-        "timestamp": "23072024134122",
-        "component_file_name": "simple_hero_component_1721742026",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "23072024134305",
+        "content": "The summary encapsulates a coherent dialogue between a user and an AI assistant regarding a specific task. Initially, the user requests the AI to change the header text to \"Soccer Champion of World\", to which the AI complies. Following this, the AI seeks further details about the project by asking the user to describe the project a bit more, indicating an effort to understand the task in a broader context and possibly tailoring its assistance more effectively.",
+        "timestamp": "23072024134308",
         "message_id": "guest23072024134303"
     }
 ]
