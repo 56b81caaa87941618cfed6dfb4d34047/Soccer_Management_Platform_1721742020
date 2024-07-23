@@ -42,5 +42,9 @@
     {
         "level": 1,
         "task_description": "build me a new frontend for crypto swap"
+    },
+    {
+        "level": 1,
+        "task_description": "Add a new button with Good Morning"
     }
 ]
