@@ -19,7 +19,7 @@ Vue.component("blank_component_1721742158", {
             <section id="blank-section" class="bg-white dark:bg-gray-900 flex-1">
                 <div id="blank-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
                     <div class="flex-1">
-                        <h1 class="text-3xl font-bold text-center mb-6 text-purple-600">Welcome to Login Form</h1>
+<h1 class="text-3xl font-bold text-center mb-6 text-purple-600">Welcome to Login Form</h1>
 
                         <form class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
                             <div class="mb-4">
