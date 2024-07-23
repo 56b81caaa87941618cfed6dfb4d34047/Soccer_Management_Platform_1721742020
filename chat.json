@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "\"Yes, I will change the header text to 'Soccer Champion of World'.\"",
+        "message_id": "guest23072024134121",
+        "timestamp": "23072024134122",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change a header text to Soccer Champion of World",
         "message_id": "guest23072024134121",
