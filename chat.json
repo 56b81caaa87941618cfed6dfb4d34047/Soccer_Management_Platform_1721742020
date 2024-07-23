@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want to change the header text across the entire app or only on specific pages?\", \"option1\": \"Across the entire app\", \"option2\": \"Only on specific pages\"}, {\"question 2\": \"Should the new header text include any specific styling preferences such as font size, color, or weight?\", \"option1\": \"Yes, I have specific styling preferences\", \"option2\": \"No, keep it consistent with the current styling\"}], \"input_token_count\": 259, \"output_token_count\": 106, \"time_taken\": \"0:00:03.313828\"}",
+        "message_id": "guest23072024134121",
+        "timestamp": "23072024134125",
+        "component_file_name": "simple_hero_component_1721742026",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "\"Yes, I will change the header text to 'Soccer Champion of World'.\"",
         "message_id": "guest23072024134121",
