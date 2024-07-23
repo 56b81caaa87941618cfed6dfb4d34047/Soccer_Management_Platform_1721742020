@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the new 'Good Morning' button to be placed within the app?\", \"option1\": \"On the main dashboard for easy access\", \"option2\": \"Under the settings menu for personalized greetings\"}, {\"question 2\": \"What function should the 'Good Morning' button perform?\", \"option1\": \"Display today's soccer matches and news\", \"option2\": \"Send a motivational soccer quote or video\"}], \"input_token_count\": 257, \"output_token_count\": 101, \"time_taken\": \"0:00:04.507172\"}",
+        "message_id": "guest23072024143131",
+        "timestamp": "23072024143138",
+        "component_file_name": "simple_hero_component_1721742026",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great suggestion! Implementing a Good Morning button now.",
         "message_id": "guest23072024143131",
