@@ -18,5 +18,9 @@
     {
         "level": 1,
         "task_description": "create a form with two text field and two radio button for gender with Button"
+    },
+    {
+        "level": 1,
+        "task_description": "create a form with two text field and two radio button for gender with Button"
     }
 ]
