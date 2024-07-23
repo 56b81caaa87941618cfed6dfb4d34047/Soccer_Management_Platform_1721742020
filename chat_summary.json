@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you specify the shade of blue you have in mind for the 'Get the App' background?\", \"option1\": \"Light blue\", \"option2\": \"Dark blue\"}, {\"question 2\": \"Would you like the text font and size to remain the same after changing its color to white?\", \"option1\": \"Yes, keep the font and size the same\", \"option2\": \"No, suggest font and size changes\"}], \"input_token_count\": 336, \"output_token_count\": 103, \"time_taken\": \"0:00:03.343506\"}",
         "timestamp": "23072024134157",
         "message_id": "guest23072024134153"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Live Scores' section with real-time updates\", \"checked\": true}, {\"feature\": \"Implement a 'Match Highlights' area with video summaries\", \"checked\": false}, {\"feature\": \"Include a 'News Feed' with the latest soccer news\", \"checked\": true}, {\"feature\": \"Create a 'Player Profiles' section with statistics and information\", \"checked\": false}, {\"feature\": \"Integrate a 'Fan Zone' for user interactions and discussions\", \"checked\": true}], \"input_token_count\": 290, \"output_token_count\": 116, \"time_taken\": \"0:00:03.565906\"}",
+        "timestamp": "23072024134157",
+        "message_id": "guest23072024134153"
     }
 ]
