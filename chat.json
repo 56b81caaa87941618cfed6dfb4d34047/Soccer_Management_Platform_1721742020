@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable theme settings for day and night modes\", \"checked\": true}, {\"feature\": \"Animated switches for toggle between free and premium content\", \"checked\": true}, {\"feature\": \"Live game updates and scores notification button\", \"checked\": false}, {\"feature\": \"Exclusive offers and deals for night games section\", \"checked\": false}, {\"feature\": \"User preference-based content recommendation engine\", \"checked\": true}, {\"feature\": \"Floating action button for quick access to top matches and events\", \"checked\": false}], \"input_token_count\": 212, \"output_token_count\": 111, \"time_taken\": \"0:00:03.732500\"}",
+        "message_id": "guest24072024042741",
+        "timestamp": "24072024042748",
+        "component_file_name": "blank_component_1721743560",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the 'Free' and 'Night' to be on the same button or separate buttons?\", \"option1\": \"On the same button\", \"option2\": \"Separate buttons\"}, {\"question 2\": \"What action should occur when the user taps on this button(s)?\", \"option1\": \"Show free soccer events happening at night\", \"option2\": \"Toggle between displaying free events and night events\"}], \"input_token_count\": 258, \"output_token_count\": 101, \"time_taken\": \"0:00:03.423756\"}",
         "message_id": "guest24072024042741",
