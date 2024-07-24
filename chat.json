@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the 'Free' and 'Night' to be on the same button or separate buttons?\", \"option1\": \"On the same button\", \"option2\": \"Separate buttons\"}, {\"question 2\": \"What action should occur when the user taps on this button(s)?\", \"option1\": \"Show free soccer events happening at night\", \"option2\": \"Toggle between displaying free events and night events\"}], \"input_token_count\": 258, \"output_token_count\": 101, \"time_taken\": \"0:00:03.423756\"}",
+        "message_id": "guest24072024042741",
+        "timestamp": "24072024042747",
+        "component_file_name": "blank_component_1721743560",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on adding a button with 'Free' and 'Night' text.",
         "message_id": "guest24072024042741",
