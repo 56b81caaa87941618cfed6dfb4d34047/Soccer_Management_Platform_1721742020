@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Working on adding a button with 'Free' and 'Night' text.",
+        "message_id": "guest24072024042741",
+        "timestamp": "24072024042744",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Free and Night",
         "message_id": "guest24072024042741",
