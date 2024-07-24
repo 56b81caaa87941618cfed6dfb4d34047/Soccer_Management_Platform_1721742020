@@ -50,5 +50,9 @@
     {
         "level": 1,
         "task_description": "Add a new button with Good Morning"
+    },
+    {
+        "level": 1,
+        "task_description": "add a button with text Free and Night"
     }
 ]
